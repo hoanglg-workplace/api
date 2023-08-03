@@ -1,0 +1,104 @@
+{
+  "bookstore": {
+    "name": "Nhà Sách Tuyệt Vời",
+    "location": "123 Đường Chính, Thành Phố H",
+    "phone": "(555) 123-4567",
+    "email": "info@nhasachtuyetvoi.com",
+    "website": "https://www.nhasachtuyetvoi.com",
+    "books": [
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Văn Học Cổ Điển",
+        "published_year": 1925,
+        "price": 12.99
+      },
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Văn Học Cổ Điển",
+        "published_year": 1960,
+        "price": 10.50
+      },
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Kỳ Ảo",
+        "published_year": 1997,
+        "price": 14.95
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Văn Học Thiên Đ dystopian",
+        "published_year": 1949,
+        "price": 11.75
+      },
+      {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Tâm Linh",
+        "published_year": 1988,
+        "price": 9.25
+      },
+      {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "Văn Học Cổ Điển",
+        "published_year": 1866,
+        "price": 15.50
+      },
+      {
+        "title": "Doraemon: Nobita's Dinosaur",
+        "author": "Fujiko F. Fujio",
+        "genre": "Truyện Tranh",
+        "published_year": 1980,
+        "price": 7.99
+      }
+    ],
+    "employees": [
+      {
+        "name": "John Doe",
+        "role": "Quản Lý Cửa Hàng",
+        "email": "john@nhasachtuyetvoi.com",
+        "phone": "(555) 987-6543"
+      },
+      {
+        "name": "Jane Smith",
+        "role": "Trợ Lý Quản Lý",
+        "email": "jane@nhasachtuyetvoi.com",
+        "phone": "(555) 543-7890"
+      },
+      {
+        "name": "Nguyễn Văn An",
+        "role": "Nhân Viên Bán Hàng",
+        "email": "an@nhasachtuyetvoi.com",
+        "phone": "(555) 111-2222"
+      },
+      {
+        "name": "Trần Thị Bình",
+        "role": "Nhân Viên Bán Hàng",
+        "email": "binh@nhasachtuyetvoi.com",
+        "phone": "(555) 333-4444"
+      },
+      {
+        "name": "Lê Hồng Cường",
+        "role": "Thủ Kho",
+        "email": "cuong@nhasachtuyetvoi.com",
+        "phone": "(555) 777-8888"
+      },
+      {
+        "name": "Nguyễn Thị Dung",
+        "role": "Kế Toán",
+        "email": "dung@nhasachtuyetvoi.com",
+        "phone": "(555) 222-3333"
+      },
+      {
+        "name": "Hoàng Văn Tuấn",
+        "role": "Bảo Vệ",
+        "email": "tuan@nhasachtuyetvoi.com",
+        "phone": "(555) 444-5555"
+      }
+    ]
+  }
+}
